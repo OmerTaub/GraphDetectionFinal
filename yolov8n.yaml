@@ -1,0 +1,12 @@
+train:
+  - SimpleGraphs/800_generated_data/splitted_data/train/images
+
+val:
+  - SimpleGraphs/800_generated_data/splitted_data/val/images
+
+test:
+  - SimpleGraphs/800_generated_data/splitted_data/test/images
+
+nc: 1
+
+names: ['Graph']
